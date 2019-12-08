@@ -1,0 +1,22 @@
+### Pénzár program leírása ###
+
+1. Regisztráció
+	- email cím 
+	- üzletnév
+	- jelszó ( SHA256)
+	- jelszó mégegyszer
+
+2. Login
+	- email cím
+	- jelszó
+
+3. Főmenű
+	- üzletnév megjelenítése
+	- pénztár program megnyitása ( eladó azonosítóval, az üzlet adja ) (grafikus)
+	- termékek lekérdezése (az, név, ár, db)
+	- termék árváltozás
+	- termék törlése és felvétele
+	- eladások megjelenítése (az, név, ár, db, bevétel)
+	- bevételek, kiadások listázása
+
+4. 
