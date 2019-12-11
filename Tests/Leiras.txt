@@ -19,4 +19,11 @@
 	- eladások megjelenítése (az, név, ár, db, bevétel)
 	- bevételek, kiadások listázása
 
-4. 
+4. Pénzát
+	- eladó adatai
+	- kereshetőség azonosító illetve, név alapján
+	- összeg felvitele az, név, vagy beírt ár alapján
+	- beirt adatok eltárolása, és kóddal való törlése/módosítása
+	- eladás megerősítése
+	- kapott összeg bevítele, az alapján visszajárot számol
+	- kérésre valutaváltás euróra és fordítva

@@ -1,0 +1,10 @@
+Adatok
+PÉNZTÁR (üzlez_az, üzlet_név, üzlet_hely, termék_az, termék_név, termék_ár, termék_db, eladó_az, eladó_név, bevétel, kiadás )
+
+1NF
+PÉNZTÁR (üzlez_az, üzlet_név, irszam, település, utca, termék_az, termék_név, termék_ár, termék_db, eladó_az, eladó_név, bevétel, kiadás )
+
+2NF
+ÜZLET (üzlez_az, üzlet_név, irszam, település, utca)
+TERMÉK (termék_az, termék_név, termék_ár, termék_db)
+ELADÓ (
